@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Monly Serif Lite';
+    src: local('Monly Serif Lite Light'), local('MonlySerifLite-Light'), 
+    	url('../fonts/Monlyseriflitelight.woff2') format('woff2'),
+    	url('../fonts/Monlyseriflitelight.woff') format('woff'), 
+    	url('../fonts/Monlyseriflitelight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Monly Serif Lite';
+    src: local('Monly Serif Lite Bold'), local('MonlySerifLite-Bold'), 
+    	 url('../fonts/Monlyseriflitebold.woff2') format('woff2'), 
+    	 url('../fonts/Monlyseriflitebold.woff') format('woff'), 
+    	 url('../fonts/Monlyseriflitebold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
